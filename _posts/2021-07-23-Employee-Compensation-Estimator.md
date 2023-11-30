@@ -85,6 +85,8 @@ employees. To protect confidentiality as legally required, pro-rated citywide av
 I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights.
 
 Dataset Shape: (287836, 15)  
+
+
 |    | Name               | dtypes  | Missing | Uniques |
 |----|--------------------|---------|---------|---------|
 | 0  | Year               | int64   | 0       | 4       |
@@ -104,9 +106,8 @@ Dataset Shape: (287836, 15)
 | 14 | Total_Compensation | int64   | 0       | 155965  |
 
 
-
-![alt text](https://github.com/aryanj10/Employee-Compensation-Regression/blob/master/correlation.png "Correlation Matrix")
-![alt text](https://github.com/aryanj10/Employee-Compensation-Regression/blob/master/compensation_by_JF.png "Compensation by Job Family")
+![correlation](https://github.com/aryanj10/aryanj10.github.io/assets/64386731/e4adc58f-6e04-446f-8189-3a657ff9184e)
+![compensation_by_JF](https://github.com/aryanj10/aryanj10.github.io/assets/64386731/cb77c2ed-1a09-44aa-907e-73d940730bb2)
 
 ## Data Pre-Processing
 1. Dropped the columns Union, Dept & OG since the columns UC, DC & OGC already encode their values.
