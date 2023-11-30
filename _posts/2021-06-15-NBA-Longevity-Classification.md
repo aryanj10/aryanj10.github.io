@@ -105,9 +105,11 @@ Dataset Shape: (1101, 20)
 | 19 | Target  | int64   | 0       | 2       |
 
 
-<img width="568" alt="image" src="https://github.com/aryanj10/NBA-Longevity-Classification/blob/master/boxplot_game_played_output.png"> <br>
-![alt text](https://github.com/aryanj10/NBA-Longevity-Classification/blob/master/boxplot_mins_output.png "Boxplot")
-![alt text](https://github.com/aryanj10/NBA-Longevity-Classification/blob/master/correlation_matrix.png "Correlation Matrix")
+
+
+![alt text](https://github.com/aryanj10/aryanj10.github.io/assets/64386731/40c6c5ad-cb89-444d-bc2e-f398a94ceda1)
+![alt text](https://github.com/aryanj10/aryanj10.github.io/assets/64386731/368e6564-560f-4a4c-ba25-94128ad98ce3)
+![correlation_matrix](https://github.com/aryanj10/aryanj10.github.io/assets/64386731/af7b2a2e-1fd9-4bf3-ac34-255e0e5b4e1f)
 
 ## Data Pre-Processing
 1. Implemented the Quantile Transformer.
