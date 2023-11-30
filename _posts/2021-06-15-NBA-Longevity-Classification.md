@@ -79,6 +79,8 @@ The values for given attributes are average over all the games played by players
 I looked at the distributions of the data. Below are a few highlights.
 
 Dataset Shape: (1101, 20)
+
+
 |    | Name    | dtypes  | Missing | Uniques |
 |----|---------|---------|---------|---------|
 | 0  | GP      | float64 | 0       | 274     |
