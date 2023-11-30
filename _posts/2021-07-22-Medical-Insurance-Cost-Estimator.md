@@ -43,6 +43,8 @@ objective index of body weight (kg / m ^ 2) using the ratio of height to weight,
 I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights.
 
 Dataset Shape: (3630, 7) 
+
+
 |   | Name     | dtypes  | Missing | Uniques |
 |---|----------|---------|---------|---------|
 | 0 | age      | float64 | 0       | 1589    |
@@ -53,8 +55,9 @@ Dataset Shape: (3630, 7)
 | 5 | children | int64   | 0       | 6       |
 | 6 | charges  | float64 | 0       | 2951    |
 
-![alt text](https://github.com/aryanj10/Medical-Insurance-Cost-Regression/blob/master/boxplot_charges_sex.png "Boxplot")
-![alt text](https://github.com/aryanj10/Medical-Insurance-Cost-Regression/blob/master/boxplot_charges_smoker.png "Boxplot")
+
+![boxplot_charges_sex](https://github.com/aryanj10/aryanj10.github.io/assets/64386731/6c0cf55e-3f5c-4ed6-a4fe-8d9333e605d7)
+![boxplot_charges_smoker](https://github.com/aryanj10/aryanj10.github.io/assets/64386731/363d027f-8cbf-4c7a-a627-92ad254212bf)
 
 ## Model Building
 Split the data into train and tests sets with a test size of 20%.  
