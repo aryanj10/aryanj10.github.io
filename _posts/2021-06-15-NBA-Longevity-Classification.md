@@ -104,7 +104,9 @@ Dataset Shape: (1101, 20)
 | 18 | TOV     | float64 | 0       | 241     |
 | 19 | Target  | int64   | 0       | 2       |
 
-![alt text](https://github.com/aryanj10/NBA-Longevity-Classification/blob/master/boxplot_game_played_output.png "Boxplot")
+
+<img width="568" alt="image" src="https://github.com/aryanj10/NBA-Longevity-Classification/blob/master/boxplot_game_played_output.png"> <br>
+![alt text]( "Boxplot")
 ![alt text](https://github.com/aryanj10/NBA-Longevity-Classification/blob/master/boxplot_mins_output.png "Boxplot")
 ![alt text](https://github.com/aryanj10/NBA-Longevity-Classification/blob/master/correlation_matrix.png "Correlation Matrix")
 
