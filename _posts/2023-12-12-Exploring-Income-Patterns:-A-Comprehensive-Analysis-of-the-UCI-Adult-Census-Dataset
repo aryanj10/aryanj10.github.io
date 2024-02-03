@@ -46,5 +46,5 @@ Race: Categorical variable indicating race.
 Sex: Binary variable indicating gender.
 Capital Gain and Loss: Continuous variables representing income from investments.
 Hours per Week: Continuous variable indicating the number of hours worked per week.
-Native Country: Categorical variable indicating the country of origin.
+Native Country: Categorical variable indicating the country of origin
 
