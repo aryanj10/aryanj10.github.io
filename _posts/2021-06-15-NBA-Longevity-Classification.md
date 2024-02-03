@@ -3,7 +3,7 @@ title: NBA Longevity Classification
 date: 2021-06-15
 categories: [Projects, Machine Learning, Classification] 
 tags: [Machine Learning, Classification, Logistic Regression, XGBoost , LGBM, Python]
-pin: true
+
 ---
 
 [![Open in Github Page](https://img.shields.io/badge/Hosted_with-GitHub_Pages-blue?logo=github&logoColor=white)](https://github.com/aryanj10/NBA-Longevity-Classification)
