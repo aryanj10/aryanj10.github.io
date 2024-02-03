@@ -1,5 +1,5 @@
 ﻿---
-title: Exploring Income Patterns: A Comprehensive Analysis of the UCI Adult Census Dataset
+title: Exploring Income Patterns- A Comprehensive Analysis of the UCI Adult Census Dataset
 date: 2023-12-12
 categories: [Projects, Data Analysis, Tableau] 
 tags: [Data Analysis, Exploratory Data Analysis, Tableau,  Python]
