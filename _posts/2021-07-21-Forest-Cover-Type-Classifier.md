@@ -3,7 +3,7 @@ title: Forest Cover Type Classifier
 date: 2021-07-21
 categories: [Projects, Machine Learning, Classification] 
 tags: [Machine Learning, Classification, XGBoost ,Decision Tree, Random Forest, KNN, Gradient Boosting, Python]
-pin: true
+
 ---
 
 [![Open in Github Page](https://img.shields.io/badge/Hosted_with-GitHub_Pages-blue?logo=github&logoColor=white)](https://github.com/aryanj10/Forest-Cover-Type-Classification)
