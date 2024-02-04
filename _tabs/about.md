@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 1
 ---
 
 I am an aspiring Data Scientist with over 1.5 years of experience in the Data Science field.  Currently, I am pursuing a Master's in Data Science at Drexel University, with an expected graduation date in June 2025. 
