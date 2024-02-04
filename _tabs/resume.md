@@ -5,21 +5,23 @@ order: 1
 
 [aj3246@drexel.edu](mailto:aj3246@drexel.edu) |[https://www.linkedin.com/in/aryanj10/](https://www.linkedin.com/in/aryanj10/) | [https://aryanj10.github.io/](https://aryanj10.github.io/)
 
-**EDUCATION**
+# EDUCATION
 
-**MS. in Data Science |** _Drexel University_ _ **|** _Philadelphia, PA Expected Graduation: June 2025
+**MS. in Data Science**, _Drexel University_, Philadelphia, PA   
+Expected Graduation: June 2025
 
 - **GPA** : 3.9
 - **Relevant Coursework** : Data Acquisition & Pre-Processing, Data Analysis & Interpretation, Computer Vision, Cloud Computing, Applied Artificial Intelligence, Information Visualization
 
-**BTech. Computer Science |** _NMIMS University_ _ **|** _ Mumbai, India Graduation: May 2023
+**BTech. Computer Science**, _NMIMS University_, Mumbai, India   
+Graduation: May 2023
 
 - **GPA** : 3.31
 - **Relevant Coursework** : Artificial Intelligence, Machine Learning, Data Structures & Algorithms, Data Mining & Analytics, Database Management Systems, Cognitive Science & Analytics, Advance Text Social & Media Analysis
 
-**WORK EXPERIENCE**
+# WORK EXPERIENCE
 
-**Junior Associate Data Scientist |** _Celebal Technologies_ **|** Remote Jan 2021 – Sept 2022
+**Junior Associate Data Scientist**, _Celebal Technologies_,  Remote,  Jan 2021 – Sept 2022
 
 - Developed and implemented a Machine Learning solution using algorithms such as XGBoost Regression, LGBMRegressor, and CatBoostRegression to predict the company's employee count and revenue
 
@@ -29,16 +31,16 @@ order: 1
 
 - Led a team of three members in the creation of a comprehensive Profit & Loss Dashboard, enabling efficient monitoring and analysis of key financial metrics
 
-**Web Development Intern |** _CoreApps Tech_ **|** Jaipur, India Apr 2019 – Jun 2019
+**Web Development Intern**, _CoreApps Tech_, Jaipur, India, Apr 2019 – Jun 2019
 
 - Developed front-end interface for client's website using HTML, CSS, JavaScript to create appealing and user friendly experiences
 
 - Leveraged digital marketing strategies like SEO, SMO, & keyword ranking techniques to inform website design decisions and enhance online visibility
 - Optimized website performance using cPanel & PHP to ensure seamless navigation and improve overall user experience by 5%
 
-**PROJECTS**
+# PROJECTS
 
-**Addressing Algorithmic Bias in Healthcare**  **|** _NMIMS University_ **|** Mumbai, India Apr 2023
+**Addressing Algorithmic Bias in Healthcare**, _NMIMS University_, Mumbai, India, Apr 2023
 
 - Discuss a number of bias-checking parameters, various debiasing techniques, examine the effectiveness of debiasing techniques, and discuss the tradeoff between AI model equity and fairness
 
@@ -46,7 +48,7 @@ order: 1
 
 - Utilized Python, Scikit Learn library to train machine learning algorithms on the Diabetes Readmission Dataset, employed the AIF360 library to calculate fairness parameters & apply debiasing techniques to enhance model fairness
 
-**Telegram Bot - News on the Go**  **|** _NMIMS University_ **|** Mumbai, India Oct 2021
+**Telegram Bot - News on the Go**, _NMIMS University_, Mumbai, India, Oct 2021
 
 - Built a NLP application to summarize news articles by applying sentence embedding using the sentence transformer model and deliver it through telegram
 
@@ -54,17 +56,17 @@ order: 1
 
 - Leveraged the Google News API to source news articles, employed NLTK library to preprocess the articles, ensuring quality and consistency, applied the sentence transformers (S-Bert) model to vectorize the pre-processed texts, utilized NumPy library to calculate the scores and ensuring relevant content in the summary, integrated the Telegram API to deliver the summarized articles
 
-**CERTIFICATIONS**
+# CERTIFICATIONS
 
-**Azure Data Scientist Associate |** Microsoft May 2022
+**Azure Data Scientist Associate**, _Microsoft_, May 2022
 
-**Azure AI Engineer Associate |** Microsoft Mar 2022
+**Azure AI Engineer Associate**, _Microsoft_, Mar 2022
 
-**Azure AI Fundamentals |** Microsoft Jan 2022
+**Azure AI Fundamentals**, _Microsoft_, Jan 2022
 
-**Azure Fundamentals |** Microsoft Jan 2022
+**Azure Fundamentals**, _Microsoft_, Jan 2022
 
-**TECHNICAL SKILLS**
+# TECHNICAL SKILLS
 
 **Programming Languages:** Python, R, MATLAB, SQL, HTML, CSS, JavaScript
 
