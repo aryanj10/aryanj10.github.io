@@ -15,9 +15,9 @@ This guide walks through deploying an image classification pipeline using an ens
 
 ## Table of Contents
 
-1. [Inference Pipeline Diagram](#-mermaid-inference-pipeline)
-2. [Triton Model Repository Structure](#-triton-model-repository-structure)
-3. [Model Configurations](#-model-configurations)
+1. [Inference Pipeline Diagram](#inference-pipeline-diagram)
+2. [Triton Model Repository Structure](#triton-model-repository-structure)
+3. [Model Configurations](#model-configurations)
 4. [Run the Server](#run-the-triton-server)
 5. [Arguments Explained](#arguments-explained)
 6. [Sample Client Snippet](#sample-client-snippet)
@@ -88,7 +88,7 @@ models/
 
 ```
 
-## Configurations
+## Model Configurations
 
 ### preprocess/config.pbtxt
 ```protobuf
