@@ -1,6 +1,6 @@
 ---
 icon: fas fa-file-alt
-order: 1
+order: 4
 ---
 
 [aj3246@drexel.edu](mailto:aj3246@drexel.edu) |[https://www.linkedin.com/in/aryanj10/](https://www.linkedin.com/in/aryanj10/) | [https://aryanj10.github.io/](https://aryanj10.github.io/)
