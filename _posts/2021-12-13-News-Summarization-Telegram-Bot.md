@@ -3,7 +3,6 @@ title: News Summarization Telegram Bot
 date: 2021-12-13
 categories: [Projects, NLP] 
 tags: [NLP, Sentence Transformers, Unsupervised Learning, Extractive Summarization, BERT, API, Telegram Bot, Python]
-pin: true
 ---
 
 [![Open in Github Page](https://img.shields.io/badge/Hosted_with-GitHub_Pages-blue?logo=github&logoColor=white)](https://github.com/aryanj10/News-Summarization-Telegram-Bot/)
