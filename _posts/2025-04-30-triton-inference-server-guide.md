@@ -1,5 +1,5 @@
 ---
-title: 🧠 Triton Inference Server Deployment Guide
+title: Triton Inference Server Deployment Guide
 date: 2025-04-30
 categories: [MLOps, Triton]
 tags: [triton, inference, deployment, pytorch, torchscript, docker, mlops]
