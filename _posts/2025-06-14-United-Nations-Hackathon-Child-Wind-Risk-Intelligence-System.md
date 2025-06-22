@@ -6,9 +6,10 @@ tags: [streamlit, wind, ERA5, raster, shapefile, xarray, geospatial, zonal stats
 toc: true
 ---
 
-[![Open in Github Page](https://img.shields.io/badge/Hosted_with-GitHub_Pages-blue?logo=github&logoColor=white)](https://github.com/aryanj10/UN-Hackathon-Child-Wind-Risk-Intelligence-System)
-
-<p align="center">
+<div align="center">
+  <a href="https://github.com/aryanj10/UN-Hackathon-Child-Wind-Risk-Intelligence-System">
+    <img alt="Hosted with GitHub Pages" src="https://img.shields.io/badge/Hosted_with-GitHub_Pages-blue?logo=github&logoColor=white">
+  </a>
   <a href="https://streamlit.io">
     <img alt="Streamlit" src="https://img.shields.io/badge/Built%20with-Streamlit-ff4b4b?logo=streamlit&logoColor=white">
   </a>
@@ -16,7 +17,7 @@ toc: true
     <img alt="Python" src="https://img.shields.io/badge/Python-3.9+-3776AB?logo=python&logoColor=white">
   </a>
   <a href="https://cds.climate.copernicus.eu/api-how-to">
-    <img alt="Copernicus CDS API" src="https://img.shields.io/badge/Data%20via-Copernicus%20CDS%20API-00BFFF?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAM1BMVEXMzMyWlpaxsbG1tbWzs7O0tLS3t7e9vb3CwsLIyMjU1NTZ2dnZ2dnh4eHZ2dnr6+vV1dX///8dNypJAAAAAXRSTlMAQObYZgAAAHNJREFUGFclyEEOwjAMBeEDCkEAgXr//9fdJHUX0pyUj2kEWLtHBEuP8EDY0gI3mpCuADzozR3j8ywwNjQxJ3QBjAwzjoKeis8VfHTa9DL1gCDXUVqFezBvopzV+wZTqQYYM/9vwEqU9z60dc5fAAAAABJRU5ErkJggg==">
+    <img alt="Copernicus CDS API" src="https://img.shields.io/badge/Data%20via-Copernicus%20CDS%20API-00BFFF?logo=datadog&logoColor=white">
   </a>
   <a href="https://leafmap.org/">
     <img alt="Leafmap" src="https://img.shields.io/badge/Map%20Rendering-Leafmap-34A853?logo=leaflet&logoColor=white">
@@ -24,7 +25,8 @@ toc: true
   <a href="https://github.com/">
     <img alt="Open Source" src="https://img.shields.io/badge/Open%20Source-GitHub-181717?logo=github">
   </a>
-</p>
+</div>
+
 
 
 # CW-RIS: Child Wind Risk Intelligence System
