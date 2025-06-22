@@ -1,10 +1,11 @@
 ---
-title: CW-RIS: Child Wind Risk Intelligence System
+title: "CW-RIS: Child Wind Risk Intelligence System"
 date: 2025-06-22
 categories: [Projects, Humanitarian AI, Geospatial]
 tags: [streamlit, wind, ERA5, raster, shapefile, xarray, geospatial, zonal stats, CDS API, humanitarian, climate risk]
 toc: true
 ---
+
 [![Open in Github Page](https://img.shields.io/badge/Hosted_with-GitHub_Pages-blue?logo=github&logoColor=white)](https://github.com/aryanj10/UN-Hackathon-Child-Wind-Risk-Intelligence-System)
 
 <p align="center">
@@ -26,7 +27,7 @@ toc: true
 </p>
 
 
-# 🌪️ CW-RIS: Child Wind Risk Intelligence System
+# CW-RIS: Child Wind Risk Intelligence System
 
 **CW-RIS** is a child-centered wind risk analysis app that overlays real-time ECMWF ERA5 wind forecast data with child population exposure (e.g., from WorldPop), school density, and hospital accessibility to compute and visualize risk zones. This Streamlit app enables faster, data-driven decisions for humanitarian response and preparedness.
 
