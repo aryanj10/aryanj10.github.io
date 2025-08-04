@@ -15,14 +15,13 @@ This guide walks through deploying an image classification pipeline using an ens
 
 ## Table of Contents
 
-1. [Inference Pipeline Diagram](#inference-pipeline-diagram)
-2. [Triton Model Repository Structure](#triton-model-repository-structure)
-3. [Model Configurations](#model-configurations)
-4. [Run the Server](#run-the-triton-server)
-5. [Arguments Explained](#arguments-explained)
-6. [Sample Client Snippet](#sample-client-snippet)
-7. [Debugging Tips](#debugging-tips)
-8. [Limitations](#limitations)
+1. [Triton Model Repository Structure](#triton-model-repository-structure)
+2. [Model Configurations](#model-configurations)
+3. [Run the Server](#run-the-triton-server)
+4. [Arguments Explained](#arguments-explained)
+5. [Sample Client Snippet](#sample-client-snippet)
+6. [Debugging Tips](#debugging-tips)
+7. [Limitations](#limitations)
 
 ---
 

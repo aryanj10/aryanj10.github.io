@@ -14,7 +14,7 @@ toc: true
 [![Streamlit App](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)](https://streamlit.io)
 [![Gemini API](https://img.shields.io/badge/LLM-Gemini-lightgrey?logo=google)](https://deepmind.google/technologies/gemini/)
 [![Playwright](https://img.shields.io/badge/Automation-Playwright-green?logo=microsoft)](https://playwright.dev/)
-[![Status](https://img.shields.io/badge/Live%20Payroll-Production%20Ready-brightgreen)]()
+[![Status](https://img.shields.io/badge/Live%20Payroll-Production%20Ready-brightgreen)]
 [![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)](https://opensource.org/licenses/MIT)
 
 This repository contains a **production-grade payroll automation system** that extracts, parses, and uploads payroll data using **LLMs (Google Gemini)** and **browser automation (Playwright)**. Designed to process 1,000+ semi-structured files and auto-fill payroll templates with high accuracy.
