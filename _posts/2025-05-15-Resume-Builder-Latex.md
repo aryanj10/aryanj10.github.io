@@ -3,7 +3,6 @@ title: Resume Builder (LaTeX + Streamlit + JSON)
 date: 2025-05-15
 categories: [Projects, Streamlit]
 tags: [resume, latex, streamlit, pdf, json, docker]
-toc: true
 ---
 
 

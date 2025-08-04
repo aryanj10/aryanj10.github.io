@@ -3,7 +3,6 @@ title: "CW-RIS: Child Wind Risk Intelligence System"
 date: 2025-06-17
 categories: [Projects, Humanitarian AI, Geospatial]
 tags: [streamlit, wind, ERA5, raster, shapefile, xarray, geospatial, zonal stats, CDS API, humanitarian, climate risk]
-toc: true
 ---
 
 <div align="center">

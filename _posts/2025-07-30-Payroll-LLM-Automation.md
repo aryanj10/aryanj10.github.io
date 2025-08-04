@@ -1,10 +1,9 @@
 ---
-title: PayrollPilot: LLM Parsing + Accountant’s World Automation
+title: "PayrollPilot: LLM Parsing + Accountant's World Automation"
 date: 2025-07-30
-categories: [LLM Automation, Payroll AI]
-tags: [Gemini, Playwright, Streamlit, automation, csv, accountant-world, llm, payroll, ai]
+categories: ["LLM Automation", "Payroll AI"]
+tags: ["Gemini", "Playwright", "Streamlit", "Automation", "Accountant-World", "LLM", "Payroll", "AI"]
 pin: true
-toc: true
 ---
 
 
@@ -13,8 +12,10 @@ toc: true
 [![Streamlit App](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)](https://streamlit.io)
 [![Gemini API](https://img.shields.io/badge/LLM-Gemini-lightgrey?logo=google)](https://deepmind.google/technologies/gemini/)
 [![Playwright](https://img.shields.io/badge/Automation-Playwright-green?logo=microsoft)](https://playwright.dev/)
-[![Status](https://img.shields.io/badge/Live%20Payroll-Production%20Ready-brightgreen)]
+[![Status](https://img.shields.io/badge/Live%20Payroll-Production%20Ready-brightgreen)](https://github.com/aryanj10/Payroll-LLM-Extractor)
 [![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)](https://opensource.org/licenses/MIT)
+
+
 
 **PayrollPilot** is a production-grade automation system that uses **LLMs (Google Gemini)** and **Playwright-based bots** to parse messy payroll reports and upload them seamlessly to **Accountant’s World**. It was used in a live business, processing over 1,000 payrolls, saving $20K+ in labor costs, and generating $2K+ in new revenue.
 
@@ -33,13 +34,10 @@ toc: true
 ---
 
 ## 📌 Use Cases
-Bookkeeping firms handling 50+ client payrolls
-
-Automation-first accountants aiming to cut labor costs
-
-LLM startups showcasing GenAI for operations
-
-Any business tired of manual AW uploads
+- Bookkeeping firms handling 50+ client payrolls
+- Automation-first accountants aiming to cut labor costs
+- LLM startups showcasing GenAI for operations
+- Any business tired of manual AW uploads
 
 ---
 
