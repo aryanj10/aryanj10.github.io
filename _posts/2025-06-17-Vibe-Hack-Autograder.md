@@ -7,7 +7,7 @@ toc: true
 ---
 [![Open in Github Page](https://img.shields.io/badge/Hosted_with-GitHub_Pages-blue?logo=github&logoColor=white)](https://github.com/lenzlaww/AutoGrader)
 
-# 🤖 AutoGrader — AI-Powered Notebook Evaluation
+# AutoGrader — AI-Powered Notebook Evaluation
 
 AutoGrader is a full-stack application developed at the **Vibe Hack Hackathon** to automate grading of Jupyter Notebooks using LLMs. Upload a `.zip` of `.ipynb` files and a `.txt` rubric, and receive structured feedback and scores — instantly!
 

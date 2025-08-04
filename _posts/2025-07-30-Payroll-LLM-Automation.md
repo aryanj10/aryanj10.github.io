@@ -7,7 +7,6 @@ pin: true
 toc: true
 ---
 
-# 💼 Payroll LLM Extractor & Automation System
 
 [![Open in Github Page](https://img.shields.io/badge/Hosted_with-GitHub_Pages-blue?logo=github&logoColor=white)](https://github.com/aryanj10/Payroll-LLM-Extractor)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://www.python.org/)
@@ -17,7 +16,7 @@ toc: true
 [![Status](https://img.shields.io/badge/Live%20Payroll-Production%20Ready-brightgreen)]
 [![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)](https://opensource.org/licenses/MIT)
 
-This repository contains a **production-grade payroll automation system** that extracts, parses, and uploads payroll data using **LLMs (Google Gemini)** and **browser automation (Playwright)**. Designed to process 1,000+ semi-structured files and auto-fill payroll templates with high accuracy.
+**PayrollPilot** is a production-grade automation system that uses **LLMs (Google Gemini)** and **Playwright-based bots** to parse messy payroll reports and upload them seamlessly to **Accountant’s World**. It was used in a live business, processing over 1,000 payrolls, saving $20K+ in labor costs, and generating $2K+ in new revenue.
 
 
 ---

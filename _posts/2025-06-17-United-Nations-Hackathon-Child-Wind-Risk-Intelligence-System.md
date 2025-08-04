@@ -29,8 +29,6 @@ toc: true
 
 
 
-# CW-RIS: Child Wind Risk Intelligence System
-
 **CW-RIS** is a child-centered wind risk analysis app that overlays real-time ECMWF ERA5 wind forecast data with child population exposure (e.g., from WorldPop), school density, and hospital accessibility to compute and visualize risk zones. This Streamlit app enables faster, data-driven decisions for humanitarian response and preparedness.
 
 ---
