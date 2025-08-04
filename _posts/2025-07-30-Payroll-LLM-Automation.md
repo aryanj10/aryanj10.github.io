@@ -1,6 +1,6 @@
 ---
 title: PayrollPilot: LLM Parsing + Accountant’s World Automation
-date: 2025-04-30
+date: 2025-07-30
 categories: [LLM Automation, Payroll AI]
 tags: [Gemini, Playwright, Streamlit, automation, csv, accountant-world, llm, payroll, ai]
 pin: true
