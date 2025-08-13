@@ -1,5 +1,5 @@
 ---
-title: "PayrollPilot: LLM Parsing + Accountant's World Automation"
+title: "PayrollPilot - LLM Parsing + Accountant's World Automation"
 date: 2025-07-30
 categories: ["LLM Automation", "Payroll AI"]
 tags: ["Gemini", "Playwright", "Streamlit", "Automation", "Accountant-World", "LLM", "Payroll", "AI"]
